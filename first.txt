@@ -1,3 +1,6 @@
 this is first application
 heading 
 navigation artical
+aside section 
+banner section 
+slider section
