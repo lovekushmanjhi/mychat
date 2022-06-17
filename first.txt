@@ -4,3 +4,5 @@ navigation artical
 aside section 
 banner section 
 slider section
+news section
+footer section
